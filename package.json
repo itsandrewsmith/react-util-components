@@ -1,0 +1,8 @@
+{
+  "name": "react-util-components",
+  "version": "1.0.0",
+  "description": "a bunch of utility components for react",
+  "main": "index.js",
+  "author": "andrew smith",
+  "license": "MIT"
+}
